@@ -9,6 +9,6 @@ __Preview 1__\
 __Preview2__\
 ![Login Form2](https://raw.githubusercontent.com/VinayagamD/admin_form_login/master/images/login_2.PNG)
 __Preview3__\
-![Login Form3](https://raw.githubusercontent.com/VinayagamD/admin_form_login/master/images/login_3.PNG)
+![Login Form3](https://raw.githubusercontent.com/VinayagamD/admin_form_login/master/images/login_3.png)
 
 Color Code : https://flatuicolors.com/palette/defo
